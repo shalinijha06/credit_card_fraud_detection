@@ -8,6 +8,9 @@ Credit Card Fraud Detection is a Machine Learning application that identifies fr
 
 \---
 
+\-## 🚀 Live Demo
+Check out the deployed app here: [Credit Card Fraud Detection](https://creditcardfrauddetection-fectk8rn8ittvf6mex4ebj.streamlit.app/)
+
 
 
 \## 🚀 Features
